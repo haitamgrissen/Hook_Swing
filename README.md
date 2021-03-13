@@ -10,7 +10,10 @@
 |
 ## Level Generation :
 ### levels are generated from color coded pictures, which spawn game objects in the scene accorfing to their color code position in the image.
-
-
+|
+|
 ##Gameplay :
+|
+|
+|
 <img src="https://github.com/haitamgrissen/Hook_Swing/blob/main/gameplay.gif"/>
