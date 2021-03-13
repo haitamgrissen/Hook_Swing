@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dcf8030819e17a547ba1ce35628c156c, type: 3}
+    - {fileID: 102900000, guid: ffaa9e3b7d0c79f4b8661a2d91cac23b, type: 3}
+    - {fileID: 102900000, guid: 936e6d48b38429f42a8a82c97464681b, type: 3}
+    - {fileID: 102900000, guid: 03cb7a8a4278f2d48a92b129fa438961, type: 3}
+    - {fileID: 102900000, guid: 475702c06b49f7f4fb3af2721e7d3621, type: 3}
+    - {fileID: 102900000, guid: fcbefadd2520c29429590761afe2e3af, type: 3}
+    - {fileID: 102900000, guid: dbba539871ba60540a5e2acbd6c6bb26, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 840067706aa650846b9ecc100c579493, type: 3}
+  - {fileID: 21300000, guid: 918421c0f091104468856f3ade9602bb, type: 3}
+  - {fileID: 21300000, guid: 3255d6d028ddf784ea42b4f30dbac640, type: 3}
+  - {fileID: 21300000, guid: b05535012ff2d74468c1bbcd9b35a915, type: 3}
+  - {fileID: 21300000, guid: 0bc8c3c1c92747046a3e6d0f2eb71341, type: 3}
+  - {fileID: 21300000, guid: 458a6812a8747ce428c54fbc5e771b06, type: 3}
+  - {fileID: 21300000, guid: 59c5c1428f414b54cb1a5e6eeba85bd3, type: 3}
+  - {fileID: 21300000, guid: 530d7413712ddd94dbfb35c5d438b595, type: 3}
+  - {fileID: 21300000, guid: 8451a143e48f3164eb66ca5bb875329d, type: 3}
+  - {fileID: 21300000, guid: 71eb7253ebc34cd4497cad1de1a68b82, type: 3}
+  - {fileID: 21300000, guid: ea9499934b7e50444bb8df66774ca745, type: 3}
+  - {fileID: 21300000, guid: da3e7fa3bbe9fb34db2e5688b28d33c3, type: 3}
+  - {fileID: 21300000, guid: 40e0f4d3e1825354f9c0971dc7ce5fac, type: 3}
+  - {fileID: 21300000, guid: ffb1eb34db2cd3442b77a400503608f3, type: 3}
+  - {fileID: 21300000, guid: 9726c75467852bc4ba9c40ef33887ede, type: 3}
+  - {fileID: 21300000, guid: f450ca16d00d47f48ac642a7ecd047eb, type: 3}
+  - {fileID: 21300000, guid: 100cdd46678819747ae5278f640b4932, type: 3}
+  - {fileID: 21300000, guid: 65d3ed86a3e4b0443be1212673b5a6aa, type: 3}
+  - {fileID: 21300000, guid: 73dc8d589017c8248945d6c7deaba594, type: 3}
+  - {fileID: 21300000, guid: 7993ae09b02a7c84cbe3885153207991, type: 3}
+  - {fileID: 21300000, guid: 05cbd329f29f9f54491de2070af93815, type: 3}
+  - {fileID: 21300000, guid: 12305d397ee608e479cd6f1585299e2d, type: 3}
+  - {fileID: 21300000, guid: 93f7c8a9153f5b449b14eb91a501386e, type: 3}
+  - {fileID: 21300000, guid: ff9924d92dc36a544aa210807bb85999, type: 3}
+  - {fileID: 21300000, guid: 0396cd1aea3f27a4885b9cfda042dc08, type: 3}
+  - {fileID: 21300000, guid: 2aeb992a5a46c5b46883f853985d1c09, type: 3}
+  - {fileID: 21300000, guid: e16815aa340bb8f498a629d2eeb776a8, type: 3}
+  - {fileID: 21300000, guid: 0c3525ba66991bd4b9bde79537cce329, type: 3}
+  - {fileID: 21300000, guid: 69594c4b37367d64288e2319e0892dc8, type: 3}
+  - {fileID: 21300000, guid: a3f5700e1feb08941a59d0bd46b1cf0f, type: 3}
+  - {fileID: 21300000, guid: 57773f5ea1cefaf4e9e431398176fdf3, type: 3}
+  - {fileID: 21300000, guid: 2ce03bae8e6c1d649833de95f4c2e9f0, type: 3}
+  - {fileID: 21300000, guid: 947a364f4f46ea644bb9cb9adf1b6caf, type: 3}
+  - {fileID: 21300000, guid: c1061aef695a8f94f9acc12d78c7286b, type: 3}
+  - {fileID: 21300000, guid: 3c6dd2ff02537b04abc6a65e85ace5b6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 4
+  - middle
+  - knob
+  - stick
+  - b1
+  - back
+  - right up
+  - character avatar
+  - 5
+  - 7
+  - 2
+  - left down
+  - 3
+  - idle
+  - b0
+  - wining
+  - finishline
+  - 10
+  - back
+  - front
+  - 8
+  - b2
+  - right down
+  - 1
+  - character avatar
+  - front
+  - indicator
+  - 6
+  - wining
+  - idle
+  - box
+  - building bg
+  - middle
+  - 9
+  - left up
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
