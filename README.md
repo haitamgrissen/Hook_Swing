@@ -1,6 +1,9 @@
 # Hook_Swing <br/>
-####this is the source code for a game i made in 2018.<br/>
+
+this is the source code for a game i made in 2018.<br/>
+
 ##Game Mechanics :<br/>
+
 ### press and hold attach to the closest hook.
 ### Get to the finish line by swinging from one hook or another and by using the enviroment (trampolines walls...).<br/>
 
