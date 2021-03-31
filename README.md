@@ -1,6 +1,6 @@
 # Hook_Swing <br/>
 
-##### Swing it!!!.<br/>
+##### Stickman hook clone.<br/>
 ---
 ## Game Mechanics :<br/>
 
